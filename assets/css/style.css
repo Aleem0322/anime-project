@@ -75,8 +75,18 @@ main {
     flex: 1 0 auto;
     margin-top: 47px;
 }
-footer {
-    background-color: #ffffff;
+#social-links {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+#social-links i {
+    font-size: 150%;
+    padding: 3%;
+    color: #d3d3d3;
+}
 }
 @media screen and (min-width: 768px) {
     nav {
