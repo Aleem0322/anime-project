@@ -82,7 +82,13 @@ main {
     background: url("../images/anime hero image.webp") no-repeat center center/cover;
     position: relative;
 }
-
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+#photos {
+    line-height: 0;
+}
 
 #social-links {
     text-align: center;
@@ -96,6 +102,14 @@ main {
     padding: 3%;
     color: #d3d3d3;
 }
+@media screen and (min-width:576px) {
+#photos {
+    column-count: 2;
+    column-gap: 0;
+}
+}
+    
+
 }
 @media screen and (min-width: 768px) {
     nav {
@@ -123,12 +137,21 @@ main {
     main {
         margin-top: 79px;
     }
+    #photos {
+        column-count: 3;
+        column-gap: 0;
+    }
     
 }
 @media screen and (min-width: 992px) {
    #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
     }
+    #photos {
+        column-count: 3;
+        
+    }
+
 }
 #small-anime {
     background: url('../images/anime\ hero\ image.webp') no-repeat top center / cover;
