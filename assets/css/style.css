@@ -12,6 +12,13 @@ body {
     color: black;
     font-family: 'Genos', sans-serif;
 }
+h1, h2, h3 {
+    font-family: 'Teko', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #d3d3d3;
+
+}
 
 header {
     background-color: #ffffff;
@@ -30,13 +37,7 @@ header a {
     color: inherit;
 
 }
-h1 {
-    font-family: 'Teko', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    color: #d3d3d3;
 
-}
 #menu > li {
     margin-bottom: 0.5em;
 }
@@ -79,7 +80,10 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/anime hero image.webp") no-repeat center center/cover;
+    position: relative;
 }
+
+
 #social-links {
     text-align: center;
     padding: 20px 0;
@@ -119,9 +123,19 @@ main {
     main {
         margin-top: 79px;
     }
+    
 }
 @media screen and (min-width: 992px) {
    #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
     }
+}
+#small-anime {
+    background: url('../images/anime\ hero\ image.webp') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
 }
