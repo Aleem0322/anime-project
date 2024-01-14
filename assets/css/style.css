@@ -16,6 +16,9 @@ body {
 header {
     background-color: aqua;
 }
+h1 {
+    font-family: 'Teko', sans-serif;
+}
 main {
     background-color: bisque;
     flex: 1 0 auto;
