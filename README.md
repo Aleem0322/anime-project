@@ -62,3 +62,28 @@ This website will be for all anime lovers with the gallery showing off cool anim
    - 1 error in index.html saying spaces not allowed on the code with the hero image, took out the spaces to correct this.
 - CSS
    - 1 error whih was a } was found on line 158 i took this out to fix this mistake.
+- Accessibility
+    - I can confirm the colors i have chosen and the fonts are easy to read and accessible by running it through lighthouse in devtools.
+
+<img width="1512" alt="Screenshot 2024-01-22 at 02 04 28" src="https://github.com/Aleem0322/anime-project/assets/150171786/72dced40-3b9e-4ef1-9f99-155d1abe5c59">
+
+# unfixed Bugs
+There are no unfixed bugs.
+
+# deployment 
+ 
+- The site was deployed to Github pages. The steps to deploy are as follows:
+- in the github repository go to the settings tab.
+- then go to pages 
+- then click deploy from a branch on source
+- then click main pages with the folder /root
+- then click save 
+- refresh page and site should be deployed.
+the live link to my website can be found here - <https://aleem0322.github.io/anime-project/index.html>
+
+# Credits 
+  ## Content 
+- Some code i used such as for the social media links and the forms was taken from the Love Running project.
+## Media
+- footer icons from font awsome
+- images on gallery from standard web page on images of manga pannels
