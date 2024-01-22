@@ -17,6 +17,8 @@ This website will be for all anime lovers with the gallery showing off cool anim
 - The Header
 - The header in my website shows a hero image of different animes, to show and represent that the website is for anime people/ lovers as it captures their attention with the big image and the bright colors so they can clearly see its anime with the biggest anime characters.
 
+<img width="1512" alt="Screenshot 2024-01-22 at 01 11 19" src="https://github.com/Aleem0322/anime-project/assets/150171786/d20a65f6-e10a-4156-b1ab-9df18609e8a1">
+
 - The main section
 - the main section of my website on the home page starts by listing the top 10 animes with ratings on the side. 
 - the main section also gives us imformation on what anime is about just to help new people that are only just getting into anime. 
