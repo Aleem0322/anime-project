@@ -26,6 +26,11 @@ This website will be for all anime lovers with the gallery showing off cool anim
 
 <img width="1512" alt="Screenshot 2024-01-22 at 01 08 15" src="https://github.com/Aleem0322/anime-project/assets/150171786/b8305ee0-294d-45c0-adc1-82e5b493b4b2">
 
+- Footer
+- The footer has a different bacground color just to ensure it stands out and can be seen by users.
+- The footer also has three clickable social media links which are icons of the app, when clicked it opens a new tab to the soical media page.
+
+<img width="1512" alt="Screenshot 2024-01-22 at 01 40 19" src="https://github.com/Aleem0322/anime-project/assets/150171786/f533af00-dcca-4c1f-9d96-4dd790ff2413">
 
 - The Gallery section 
 - The gallery section on my web page has a lot of pictures of manga pannels in rows showing of different animes, giving cool effects of what each anime is, this feature is there to show off best anime scenes or the coolest characters of a bunch of different anime shows.
@@ -50,3 +55,10 @@ This website will be for all anime lovers with the gallery showing off cool anim
 # Bugs
 
 - no bugs found when i deployed my website and everything was in working order.
+
+# Validator Testing 
+
+- HTML 
+   - 1 error in index.html saying spaces not allowed on the code with the hero image, took out the spaces to correct this.
+- CSS
+   - 1 error whih was a } was found on line 158 i took this out to fix this mistake.
