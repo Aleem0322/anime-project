@@ -40,3 +40,13 @@ This website will be for all anime lovers with the gallery showing off cool anim
   
   <img width="1512" alt="Screenshot 2024-01-22 at 01 24 52" src="https://github.com/Aleem0322/anime-project/assets/150171786/36524b16-db31-4f2e-813b-f1e14359929a">
 
+# Testing
+
+- i tested to make sure the page runs in different browsers. 
+- I confirm the project is fully responsive and looks good on different screen sizes.
+- I confirm the navigation, header, main section, gallery and sign up form are readable and easy to look at and understand.
+- I confirm that the form works, with requries entries field, and the submit button works, and email is needed in the email section.
+  
+# Bugs
+
+- no bugs found when i deployed my website and everything was in working order.
