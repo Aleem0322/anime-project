@@ -25,3 +25,18 @@ This website will be for all anime lovers with the gallery showing off cool anim
 - the main section also includes descriptions of the top 2 animes and what they are about, with how many seasons they are just to give more imformation about the top 2 animes so new anime fans have a starting point.
 
 <img width="1512" alt="Screenshot 2024-01-22 at 01 08 15" src="https://github.com/Aleem0322/anime-project/assets/150171786/b8305ee0-294d-45c0-adc1-82e5b493b4b2">
+
+
+- The Gallery section 
+- The gallery section on my web page has a lot of pictures of manga pannels in rows showing of different animes, giving cool effects of what each anime is, this feature is there to show off best anime scenes or the coolest characters of a bunch of different anime shows.
+
+<img width="1512" alt="Screenshot 2024-01-22 at 01 20 30" src="https://github.com/Aleem0322/anime-project/assets/150171786/392f3fae-7b47-4d10-94d2-ba15c9bdd033">
+
+- Sign up form
+- The sign up form section is a form, which ask for details of full name and email address, this is to collect users imformation to keep them updated on news about anime.
+- The form has a background image of an anime manga pannel to give it that cool effect keeping with the anime theme. 
+- The forms feature make it so you have to put all correct details in order to submit so ensures user submits correct details.
+- The form once submitted takes the user to a thank you page to confirm its all done, this then automatically after 10 seconds takes them back to the home page.
+  
+  <img width="1512" alt="Screenshot 2024-01-22 at 01 24 52" src="https://github.com/Aleem0322/anime-project/assets/150171786/36524b16-db31-4f2e-813b-f1e14359929a">
+
