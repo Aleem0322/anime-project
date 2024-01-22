@@ -9,4 +9,17 @@ This website will be for all anime lovers with the gallery showing off cool anim
 # Features
 
 - Navigation
-- 
+- This is featured at the top of the page, in the nav you can see the website name/logo in the top left and on the top right you can see a clickable icon which is 2 lines.
+- The clickable icon opens up to show 3 links Home, Gallery and Sign Up which are 3 different sections on my web page.
+- The nav is in easy colors to see and looks good as it matches the web page.
+- The nav shows the user the website name and makes it easy to navigate.
+
+- The Header
+- The header in my website shows a hero image of different animes, to show and represent that the website is for anime people/ lovers as it captures their attention with the big image and the bright colors so they can clearly see its anime with the biggest anime characters.
+
+- The main section
+- the main section of my website on the home page starts by listing the top 10 animes with ratings on the side. 
+- the main section also gives us imformation on what anime is about just to help new people that are only just getting into anime. 
+- the main section also includes descriptions of the top 2 animes and what they are about, with how many seasons they are just to give more imformation about the top 2 animes so new anime fans have a starting point.
+
+<img width="1512" alt="Screenshot 2024-01-22 at 01 08 15" src="https://github.com/Aleem0322/anime-project/assets/150171786/b8305ee0-294d-45c0-adc1-82e5b493b4b2">
